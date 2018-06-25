@@ -1,0 +1,22 @@
+{
+  "name": "jinko",
+  "version": "1.0.0",
+  "description": "Lightweight MVC Framework",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "copy-dir": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MVC",
+    "Framework"
+  ],
+  "author": "Prodigle",
+  "license": "MIT"
+}

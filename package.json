@@ -1,13 +1,20 @@
 {
   "name": "jinko",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Lightweight MVC Framework",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
+  "bin": {
+    "scaffold": "./index.js"
+  },
   "dependencies": {
-    "copy-dir": "^0.3.0"
+    "caporal": "^0.10.0",
+    "colors": "latest",
+    "copy-dir": "^0.3.0",
+    "prompt": "^1.0.0",
+    "shelljs": "^0.8.2"
   },
   "devDependencies": {},
   "scripts": {
@@ -17,6 +24,7 @@
     "MVC",
     "Framework"
   ],
+  "repository": "https://github.com/SirProdigle/Jinko-NPM",
   "author": "Prodigle",
   "license": "MIT"
 }

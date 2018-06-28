@@ -1,13 +1,13 @@
 {
   "name": "jinko",
-  "version": "1.0.2",
+  "version": "1.0.21",
   "description": "Lightweight MVC Framework",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "bin": {
-    "scaffold": "./index.js"
+    "jinko": "./index.js"
   },
   "dependencies": {
     "caporal": "^0.10.0",
